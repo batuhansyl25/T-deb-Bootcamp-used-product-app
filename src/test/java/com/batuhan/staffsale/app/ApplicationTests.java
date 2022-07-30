@@ -1,10 +1,10 @@
-package com.usedStaffSale.staffSale;
+package com.batuhan.staffsale.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StaffSaleApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {

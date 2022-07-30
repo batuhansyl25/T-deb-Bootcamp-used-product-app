@@ -1,13 +1,13 @@
-package com.usedStaffSale.staffSale;
+package com.batuhan.staffsale.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StaffSaleApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StaffSaleApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
